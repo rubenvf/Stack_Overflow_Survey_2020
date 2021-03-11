@@ -2,11 +2,11 @@
 Code for project 1 Udacity´s Data Scientist Nanodegree
 
 
-## Instalation
+## Installation
 All the code has been written with Python 3 and all the necessary libraries are included in the Anaconda distribution.
 
 ## Project motivation
-The goal of this project was to analyze the data from the 2020 Stack Overflow survey, which can be dowloaded for free [here](https://insights.stackoverflow.com/survey/?_ga=2.179256676.1992381700.1615479531-1434077162.1612892796). More specifically, I focused on creating a regression model to predict developer salaries. In addition, I was interested in answering the following questions:
+The goal of this project was to analyze the data from the 2020 Stack Overflow survey, which can be downloaded for free [here](https://insights.stackoverflow.com/survey/?_ga=2.179256676.1992381700.1615479531-1434077162.1612892796). More specifically, I focused on creating a regression model to predict developer salaries. In addition, I was interested in answering the following questions:
 
 - What have been the most used programming languages in 2020?
 
@@ -22,6 +22,6 @@ There are two files:
 - `DevType_Analysis.ipynb`: Analysis of the issues specified in the motivation of the project. | [Preview](https://github.com/rubenvf/Stack_Overflow_Survey_2020/blob/main/DevType_Analysis.ipynb)
 
 ## Results
-The main findigs of the analysis will be available in a Medium post.
+The main findings of the analysis will be available in a Medium post.
 
 As for linear regression, I have not been able to create a model that predicts more than 24% of the variability in salaries.
