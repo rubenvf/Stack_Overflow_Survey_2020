@@ -22,6 +22,6 @@ There are two files:
 - `DevType_Analysis.ipynb`: Analysis of the issues specified in the motivation of the project. | [Preview](https://github.com/rubenvf/Stack_Overflow_Survey_2020/blob/main/DevType_Analysis.ipynb)
 
 ## Results
-The main findings of the analysis will be available in a Medium post.
+The main findings of the analysis are available in [this](https://rubenvilela.medium.com/this-data-will-help-you-choose-your-developer-type-d4a92dff1568) Medium post.
 
 As for linear regression, I have not been able to create a model that predicts more than 24% of the variability in salaries.
