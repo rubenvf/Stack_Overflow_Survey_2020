@@ -25,3 +25,6 @@ There are two files:
 The main findings of the analysis are available in [this](https://rubenvilela.medium.com/this-data-will-help-you-choose-your-developer-type-d4a92dff1568) Medium post.
 
 As for linear regression, I have not been able to create a model that predicts more than 24% of the variability in salaries.
+
+## Acknowledgements
+Credit must be given to Stack Overflow for the datasets used, which can be copied and distributed under the CC BY-SA 4.0 license.
